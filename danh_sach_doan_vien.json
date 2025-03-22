@@ -1,0 +1,2431 @@
+[
+    {
+        "STT":"1",
+        "SQĐ":"25.25001",
+        "LỚP":"Nguyễn Hà Vương Anh",
+        "HỌC SINH":"21\/06\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"2",
+        "SQĐ":"25.25002",
+        "LỚP":"Nguyễn Thị Mỹ Anh",
+        "HỌC SINH":"19\/11\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"3",
+        "SQĐ":"25.25003",
+        "LỚP":"Nguyễn Thành Bảo Bảo",
+        "HỌC SINH":"18\/07\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"4",
+        "SQĐ":"25.25004",
+        "LỚP":"Phạm Hữu Duy",
+        "HỌC SINH":"23\/09\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"5",
+        "SQĐ":"25.25005",
+        "LỚP":"Phạm Thị Tuyết Giao",
+        "HỌC SINH":"26\/09\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"6",
+        "SQĐ":"25.25006",
+        "LỚP":"Trần Thị Mỹ Hằng",
+        "HỌC SINH":"16\/12\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"7",
+        "SQĐ":"25.25007",
+        "LỚP":"Phạm Tấn Hiệp",
+        "HỌC SINH":"25\/09\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"8",
+        "SQĐ":"25.25008",
+        "LỚP":"Nguyễn Khải Hoàn",
+        "HỌC SINH":"23\/12\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"9",
+        "SQĐ":"25.25009",
+        "LỚP":"Phạm Hoàng Khang",
+        "HỌC SINH":"27\/06\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"10",
+        "SQĐ":"25.25010",
+        "LỚP":"Nguyễn Bùi Bảo Nghi",
+        "HỌC SINH":"18\/08\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"11",
+        "SQĐ":"25.25011",
+        "LỚP":"Phạm Trọng Nhân",
+        "HỌC SINH":"23\/01\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"12",
+        "SQĐ":"25.25012",
+        "LỚP":"Nguyễn Thị Như Quỳnh",
+        "HỌC SINH":"07\/07\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"13",
+        "SQĐ":"25.25013",
+        "LỚP":"Nguyễn Hữu Thiên",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"14",
+        "SQĐ":"25.25014",
+        "LỚP":"Lê Nguyễn Phú Thịnh",
+        "HỌC SINH":"24\/07\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"15",
+        "SQĐ":"25.25015",
+        "LỚP":"Phạm Trương Thái Thuận",
+        "HỌC SINH":"12\/04\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"16",
+        "SQĐ":"25.25016",
+        "LỚP":"Lê Hồ Minh Tiến",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"17",
+        "SQĐ":"25.25017",
+        "LỚP":"Huỳnh Nguyễn Trung Tín",
+        "HỌC SINH":"17\/12\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"18",
+        "SQĐ":"25.25018",
+        "LỚP":"Nguyễn Thị Ngọc Vân",
+        "HỌC SINH":"11\/03\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"19",
+        "SQĐ":"25.25019",
+        "LỚP":"Nguyễn Hồ Bảo Vi",
+        "HỌC SINH":"30\/12\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"20",
+        "SQĐ":"25.25020",
+        "LỚP":"Trần Thị Như Ý",
+        "HỌC SINH":"26\/11\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"21",
+        "SQĐ":"25.25021",
+        "LỚP":"Võ Thị Như Ý",
+        "HỌC SINH":"09\/06\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"22",
+        "SQĐ":"25.25022",
+        "LỚP":"Lê Thị Ngọc Yến",
+        "HỌC SINH":"21\/09\/2009",
+        "NGÀY SINH":"10A1"
+    },
+    {
+        "STT":"23",
+        "SQĐ":"25.25023",
+        "LỚP":"Nguyễn Ngọc Khánh Băng",
+        "HỌC SINH":"21\/04\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"24",
+        "SQĐ":"25.25024",
+        "LỚP":"Đoàn Minh Diệp",
+        "HỌC SINH":"28\/12\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"25",
+        "SQĐ":"25.25025",
+        "LỚP":"Nguyễn Hoàng Dương",
+        "HỌC SINH":"22\/11\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"26",
+        "SQĐ":"25.25026",
+        "LỚP":"Phạm Quí Em",
+        "HỌC SINH":"08\/01\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"27",
+        "SQĐ":"25.25027",
+        "LỚP":"Lê Trường Hải",
+        "HỌC SINH":"25\/12\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"28",
+        "SQĐ":"25.25028",
+        "LỚP":"Lương Thế Hào",
+        "HỌC SINH":"27\/04\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"29",
+        "SQĐ":"25.25029",
+        "LỚP":"Nguyễn Thị Xuân Hồng",
+        "HỌC SINH":"30\/09\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"30",
+        "SQĐ":"25.25030",
+        "LỚP":"Nguyễn Tuấn Kiệt",
+        "HỌC SINH":"12\/07\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"31",
+        "SQĐ":"25.25031",
+        "LỚP":"Huỳnh Đức Mạnh",
+        "HỌC SINH":"13\/11\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"32",
+        "SQĐ":"25.25032",
+        "LỚP":"Nguyễn Thị Kim Ngân",
+        "HỌC SINH":"13\/09\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"33",
+        "SQĐ":"25.25033",
+        "LỚP":"Phạm Thị Bích Ngân",
+        "HỌC SINH":"25\/11\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"34",
+        "SQĐ":"25.25034",
+        "LỚP":"Phan Thị Tuyết Nhi",
+        "HỌC SINH":"23\/09\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"35",
+        "SQĐ":"25.25035",
+        "LỚP":"Nguyễn Quốc Ninh",
+        "HỌC SINH":"22\/04\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"36",
+        "SQĐ":"25.25036",
+        "LỚP":"Lê Thạnh Phát",
+        "HỌC SINH":"25\/12\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"37",
+        "SQĐ":"25.25037",
+        "LỚP":"Huỳnh Lê Xuân Quyên",
+        "HỌC SINH":"29\/01\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"38",
+        "SQĐ":"25.25038",
+        "LỚP":"Nguyễn Thị Như Quỳnh",
+        "HỌC SINH":"12\/02\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"39",
+        "SQĐ":"25.25039",
+        "LỚP":"Tống Thanh Tâm",
+        "HỌC SINH":"04\/07\/2008",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"40",
+        "SQĐ":"25.25040",
+        "LỚP":"Đoàn Hồng Thiện",
+        "HỌC SINH":"12\/03\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"41",
+        "SQĐ":"25.25041",
+        "LỚP":"Thái Trường Thọ",
+        "HỌC SINH":"06\/10\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"42",
+        "SQĐ":"25.25042",
+        "LỚP":"Nguyễn Việt Tiến",
+        "HỌC SINH":"18\/04\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"43",
+        "SQĐ":"25.25043",
+        "LỚP":"Nguyễn Ngọc Trâm",
+        "HỌC SINH":"13\/10\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"44",
+        "SQĐ":"25.25044",
+        "LỚP":"Lê Minh Trí",
+        "HỌC SINH":"05\/05\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"45",
+        "SQĐ":"25.25045",
+        "LỚP":"Nguyễn Lê Văn Triển",
+        "HỌC SINH":"03\/11\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"46",
+        "SQĐ":"25.25046",
+        "LỚP":"Dương Hồ Thiên Tứ",
+        "HỌC SINH":"14\/09\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"47",
+        "SQĐ":"25.25047",
+        "LỚP":"Sử Thanh Tuyền",
+        "HỌC SINH":"25\/08\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"48",
+        "SQĐ":"25.25048",
+        "LỚP":"Trương Thị Tú Uyên",
+        "HỌC SINH":"29\/04\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"49",
+        "SQĐ":"25.25049",
+        "LỚP":"Phạm Thị Tường Vi",
+        "HỌC SINH":"08\/02\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"50",
+        "SQĐ":"25.25050",
+        "LỚP":"Trần Thái Vĩnh",
+        "HỌC SINH":"25\/02\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"51",
+        "SQĐ":"25.25051",
+        "LỚP":"Trần Thị Kim Xuyến",
+        "HỌC SINH":"31\/10\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"52",
+        "SQĐ":"25.25052",
+        "LỚP":"Đoàn Như Ý",
+        "HỌC SINH":"30\/10\/2009",
+        "NGÀY SINH":"10A10"
+    },
+    {
+        "STT":"53",
+        "SQĐ":"25.25053",
+        "LỚP":"Đỗ Quỳnh Anh",
+        "HỌC SINH":"08\/04\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"54",
+        "SQĐ":"25.25054",
+        "LỚP":"Nguyễn Thị Mỹ Duyên",
+        "HỌC SINH":"14\/07\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"55",
+        "SQĐ":"25.25055",
+        "LỚP":"Trần Thị Như Huỳnh",
+        "HỌC SINH":"27\/10\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"56",
+        "SQĐ":"25.25056",
+        "LỚP":"Nguyễn Duy Khang",
+        "HỌC SINH":"04\/06\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"57",
+        "SQĐ":"25.25057",
+        "LỚP":"Nguyễn Ngọc Yên Khang",
+        "HỌC SINH":"25\/12\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"58",
+        "SQĐ":"25.25058",
+        "LỚP":"Nguyễn Công Khanh",
+        "HỌC SINH":"20\/12\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"59",
+        "SQĐ":"25.25059",
+        "LỚP":"Phan Quốc Kiệt",
+        "HỌC SINH":"20\/08\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"60",
+        "SQĐ":"25.25060",
+        "LỚP":"Trương Triệu Ngoan",
+        "HỌC SINH":"11\/11\/2007",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"61",
+        "SQĐ":"25.25061",
+        "LỚP":"Lê Thị Khánh Ngọc",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"62",
+        "SQĐ":"25.25062",
+        "LỚP":"Trịnh Hoàng Khánh Ngọc",
+        "HỌC SINH":"25\/10\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"63",
+        "SQĐ":"25.25063",
+        "LỚP":"Nguyễn Thị Tâm Như",
+        "HỌC SINH":"06\/11\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"64",
+        "SQĐ":"25.25064",
+        "LỚP":"Nguyễn Thị Kim Oanh",
+        "HỌC SINH":"05\/09\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"65",
+        "SQĐ":"25.25065",
+        "LỚP":"Lê Thanh Phú",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"66",
+        "SQĐ":"25.25066",
+        "LỚP":"Nguyễn Thị Đỗ Quyên",
+        "HỌC SINH":"05\/05\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"67",
+        "SQĐ":"25.25067",
+        "LỚP":"Lăng Thị Cẩm Quỳnh",
+        "HỌC SINH":"27\/04\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"68",
+        "SQĐ":"25.25068",
+        "LỚP":"Lê Huỳnh Ngọc Thi",
+        "HỌC SINH":"31\/10\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"69",
+        "SQĐ":"25.25069",
+        "LỚP":"Đào Thị Kim Thư",
+        "HỌC SINH":"27\/09\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"70",
+        "SQĐ":"25.25070",
+        "LỚP":"Lê Anh Thư",
+        "HỌC SINH":"19\/06\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"71",
+        "SQĐ":"25.25071",
+        "LỚP":"Văng Thị Diễm Trinh",
+        "HỌC SINH":"18\/10\/2009",
+        "NGÀY SINH":"10A11"
+    },
+    {
+        "STT":"72",
+        "SQĐ":"25.25072",
+        "LỚP":"Dương Nguyễn Hoài Anh",
+        "HỌC SINH":"07\/12\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"73",
+        "SQĐ":"25.25073",
+        "LỚP":"Trần Đông Đào",
+        "HỌC SINH":"15\/11\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"74",
+        "SQĐ":"25.25074",
+        "LỚP":"Đinh Thị Ngọc Diệu",
+        "HỌC SINH":"16\/04\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"75",
+        "SQĐ":"25.25075",
+        "LỚP":"Huỳnh Thị Mỹ Duyên",
+        "HỌC SINH":"13\/05\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"76",
+        "SQĐ":"25.25076",
+        "LỚP":"Cao Văn Sáng Em",
+        "HỌC SINH":"29\/05\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"77",
+        "SQĐ":"25.25077",
+        "LỚP":"Nguyễn Võ Bảo Ngọc",
+        "HỌC SINH":"19\/06\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"78",
+        "SQĐ":"25.25078",
+        "LỚP":"Phạm Hoàng Phúc",
+        "HỌC SINH":"27\/03\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"79",
+        "SQĐ":"25.25079",
+        "LỚP":"Nguyễn Quỳnh Thơ",
+        "HỌC SINH":"01\/05\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"80",
+        "SQĐ":"25.25080",
+        "LỚP":"Huỳnh Thị Bích Trâm",
+        "HỌC SINH":"27\/06\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"81",
+        "SQĐ":"25.25081",
+        "LỚP":"Trần Thị Thanh Trúc",
+        "HỌC SINH":"25\/08\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"82",
+        "SQĐ":"25.25082",
+        "LỚP":"Phan Minh Tú",
+        "HỌC SINH":"29\/07\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"83",
+        "SQĐ":"25.25083",
+        "LỚP":"Nguyễn Hữu Vinh",
+        "HỌC SINH":"15\/02\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"84",
+        "SQĐ":"25.25084",
+        "LỚP":"Nguyễn Ngọc Trường Vũ",
+        "HỌC SINH":"04\/12\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"85",
+        "SQĐ":"25.25085",
+        "LỚP":"Nguyễn Thị Tường Vy",
+        "HỌC SINH":"07\/02\/2009",
+        "NGÀY SINH":"10A12"
+    },
+    {
+        "STT":"86",
+        "SQĐ":"25.25086",
+        "LỚP":"Dương Huỳnh Anh",
+        "HỌC SINH":"31\/10\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"87",
+        "SQĐ":"25.25087",
+        "LỚP":"Nguyễn Quốc Anh",
+        "HỌC SINH":"06\/08\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"88",
+        "SQĐ":"25.25088",
+        "LỚP":"Trương Thị Hồng Anh",
+        "HỌC SINH":"05\/04\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"89",
+        "SQĐ":"25.25089",
+        "LỚP":"Nguyễn Minh Hưng",
+        "HỌC SINH":"04\/11\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"90",
+        "SQĐ":"25.25090",
+        "LỚP":"Trần Ngọc Hưng",
+        "HỌC SINH":"15\/05\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"91",
+        "SQĐ":"25.25091",
+        "LỚP":"Đỗ Quang Huy",
+        "HỌC SINH":"11\/05\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"92",
+        "SQĐ":"25.25092",
+        "LỚP":"Lê Nguyễn Trúc Lam",
+        "HỌC SINH":"10\/01\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"93",
+        "SQĐ":"25.25093",
+        "LỚP":"Đoàn Thị Kim Mai",
+        "HỌC SINH":"07\/11\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"94",
+        "SQĐ":"25.25094",
+        "LỚP":"Huỳnh Thị Ngọc Mỹ",
+        "HỌC SINH":"25\/07\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"95",
+        "SQĐ":"25.25095",
+        "LỚP":"Lê Thị Nhu",
+        "HỌC SINH":"12\/11\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"96",
+        "SQĐ":"25.25096",
+        "LỚP":"Huỳnh Tâm Như",
+        "HỌC SINH":"18\/11\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"97",
+        "SQĐ":"25.25097",
+        "LỚP":"Lê Triệu Phú",
+        "HỌC SINH":"08\/05\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"98",
+        "SQĐ":"25.25098",
+        "LỚP":"Nguyễn Thị Ngọc Quyền",
+        "HỌC SINH":"09\/02\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"99",
+        "SQĐ":"25.25099",
+        "LỚP":"Lê Quỳnh",
+        "HỌC SINH":"12\/10\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"100",
+        "SQĐ":"25.25100",
+        "LỚP":"Nguyễn Minh Thư",
+        "HỌC SINH":"23\/10\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"101",
+        "SQĐ":"25.25101",
+        "LỚP":"Phạm Huỳnh Anh Tiến",
+        "HỌC SINH":"02\/07\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"102",
+        "SQĐ":"25.25102",
+        "LỚP":"Nguyễn Thị Yến Vy",
+        "HỌC SINH":"07\/08\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"103",
+        "SQĐ":"25.25103",
+        "LỚP":"Trương Thị Khánh Vy",
+        "HỌC SINH":"05\/11\/2009",
+        "NGÀY SINH":"10A2"
+    },
+    {
+        "STT":"104",
+        "SQĐ":"25.25104",
+        "LỚP":"Bùi Tuấn Anh",
+        "HỌC SINH":"04\/01\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"105",
+        "SQĐ":"25.25105",
+        "LỚP":"Lê Thị Huỳnh Anh",
+        "HỌC SINH":"19\/06\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"106",
+        "SQĐ":"25.25106",
+        "LỚP":"Trương Thị Ngọc Ánh",
+        "HỌC SINH":"01\/12\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"107",
+        "SQĐ":"25.25107",
+        "LỚP":"Hà Thị Khánh Băng",
+        "HỌC SINH":"07\/08\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"108",
+        "SQĐ":"25.25108",
+        "LỚP":"Ngô Tiểu Băng",
+        "HỌC SINH":"21\/04\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"109",
+        "SQĐ":"25.25109",
+        "LỚP":"Trần Thị Minh Hiếu",
+        "HỌC SINH":"09\/05\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"110",
+        "SQĐ":"25.25110",
+        "LỚP":"Trịnh Ngô Gia Huy",
+        "HỌC SINH":"29\/06\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"111",
+        "SQĐ":"25.25111",
+        "LỚP":"Hồ Nguyễn Khang",
+        "HỌC SINH":"25\/04\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"112",
+        "SQĐ":"25.25112",
+        "LỚP":"Nguyễn Thái Khang",
+        "HỌC SINH":"27\/02\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"113",
+        "SQĐ":"25.25113",
+        "LỚP":"Nguyễn Trường Khang",
+        "HỌC SINH":"21\/04\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"114",
+        "SQĐ":"25.25114",
+        "LỚP":"Thái Trung Kiên",
+        "HỌC SINH":"26\/11\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"115",
+        "SQĐ":"25.25115",
+        "LỚP":"Nguyễn Anh Kiệt",
+        "HỌC SINH":"24\/10\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"116",
+        "SQĐ":"25.25116",
+        "LỚP":"Châu Ngọc Linh",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"117",
+        "SQĐ":"25.25117",
+        "LỚP":"Nguyễn Trúc Linh",
+        "HỌC SINH":"02\/09\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"118",
+        "SQĐ":"25.25118",
+        "LỚP":"Hồ Thị Cẩm Ly",
+        "HỌC SINH":"21\/12\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"119",
+        "SQĐ":"25.25119",
+        "LỚP":"Nguyễn Trúc Mi",
+        "HỌC SINH":"13\/07\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"120",
+        "SQĐ":"25.25120",
+        "LỚP":"Trần Thanh Mỹ",
+        "HỌC SINH":"27\/11\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"121",
+        "SQĐ":"25.25121",
+        "LỚP":"Lê Hoàng Nam",
+        "HỌC SINH":"23\/08\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"122",
+        "SQĐ":"25.25122",
+        "LỚP":"Nguyễn Thị Yến Ngọc",
+        "HỌC SINH":"18\/05\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"123",
+        "SQĐ":"25.25123",
+        "LỚP":"Lê Hoàng Phi",
+        "HỌC SINH":"04\/01\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"124",
+        "SQĐ":"25.25124",
+        "LỚP":"Lê Quốc Thái",
+        "HỌC SINH":"30\/09\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"125",
+        "SQĐ":"25.25125",
+        "LỚP":"Phạm Minh Thảo",
+        "HỌC SINH":"18\/06\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"126",
+        "SQĐ":"25.25126",
+        "LỚP":"Nguyễn Đức Thịnh",
+        "HỌC SINH":"22\/10\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"127",
+        "SQĐ":"25.25127",
+        "LỚP":"Nguyễn Lê Ngọc Thùy",
+        "HỌC SINH":"14\/06\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"128",
+        "SQĐ":"25.25128",
+        "LỚP":"Phạm Lê Mộng Thùy",
+        "HỌC SINH":"27\/12\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"129",
+        "SQĐ":"25.25129",
+        "LỚP":"Huỳnh Thị Ngọc Tiên",
+        "HỌC SINH":"13\/10\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"130",
+        "SQĐ":"25.25130",
+        "LỚP":"Nguyễn Thiện Toàn",
+        "HỌC SINH":"12\/06\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"131",
+        "SQĐ":"25.25131",
+        "LỚP":"Nguyễn Thị Bảo Trân",
+        "HỌC SINH":"07\/08\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"132",
+        "SQĐ":"25.25132",
+        "LỚP":"Huỳnh Thị Yến Trang",
+        "HỌC SINH":"06\/02\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"133",
+        "SQĐ":"25.25133",
+        "LỚP":"Nguyễn Thị Kiều Vy",
+        "HỌC SINH":"08\/05\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"134",
+        "SQĐ":"25.25134",
+        "LỚP":"NGUYỄN THIÊN KIM",
+        "HỌC SINH":"17\/09\/2009",
+        "NGÀY SINH":"10A3"
+    },
+    {
+        "STT":"135",
+        "SQĐ":"25.25135",
+        "LỚP":"Huỳnh Thị Trâm Anh",
+        "HỌC SINH":"31\/08\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"136",
+        "SQĐ":"25.25136",
+        "LỚP":"Võ Thị Trang Anh",
+        "HỌC SINH":"07\/02\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"137",
+        "SQĐ":"25.25137",
+        "LỚP":"Nguyễn Thành Đạt",
+        "HỌC SINH":"15\/10\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"138",
+        "SQĐ":"25.25138",
+        "LỚP":"Đỗ Thị Giàu",
+        "HỌC SINH":"16\/09\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"139",
+        "SQĐ":"25.25139",
+        "LỚP":"Nguyễn Thị Kim Hà",
+        "HỌC SINH":"10\/04\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"140",
+        "SQĐ":"25.25140",
+        "LỚP":"Huỳnh Thanh Hải",
+        "HỌC SINH":"23\/09\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"141",
+        "SQĐ":"25.25141",
+        "LỚP":"Lê Thanh Hào",
+        "HỌC SINH":"12\/12\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"142",
+        "SQĐ":"25.25142",
+        "LỚP":"Nguyễn Thanh Hoàng",
+        "HỌC SINH":"05\/04\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"143",
+        "SQĐ":"25.25143",
+        "LỚP":"Lê Nguyễn Bình Khang",
+        "HỌC SINH":"06\/05\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"144",
+        "SQĐ":"25.25144",
+        "LỚP":"Châu Thị Hồng Lam",
+        "HỌC SINH":"23\/05\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"145",
+        "SQĐ":"25.25145",
+        "LỚP":"Huỳnh Thị Trúc Linh",
+        "HỌC SINH":"06\/09\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"146",
+        "SQĐ":"25.25146",
+        "LỚP":"Huỳnh Nhật Trung Nguyên",
+        "HỌC SINH":"21\/04\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"147",
+        "SQĐ":"25.25147",
+        "LỚP":"Nguyễn Trọng Nhân",
+        "HỌC SINH":"20\/10\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"148",
+        "SQĐ":"25.25148",
+        "LỚP":"Nguyễn Thị Tuyết Nhi",
+        "HỌC SINH":"10\/06\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"149",
+        "SQĐ":"25.25149",
+        "LỚP":"Đặng Thị Kim Oanh",
+        "HỌC SINH":"11\/03\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"150",
+        "SQĐ":"25.25150",
+        "LỚP":"Nguyễn Tiến Phát",
+        "HỌC SINH":"07\/01\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"151",
+        "SQĐ":"25.25151",
+        "LỚP":"Đặng Chí Tâm",
+        "HỌC SINH":"03\/08\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"152",
+        "SQĐ":"25.25152",
+        "LỚP":"Đinh Thị Thanh Thảo",
+        "HỌC SINH":"05\/09\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"153",
+        "SQĐ":"25.25153",
+        "LỚP":"Võ Minh Thiện",
+        "HỌC SINH":"07\/01\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"154",
+        "SQĐ":"25.25154",
+        "LỚP":"Đỗ Thị Phương Thùy",
+        "HỌC SINH":"29\/08\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"155",
+        "SQĐ":"25.25155",
+        "LỚP":"Trần Trí Tường",
+        "HỌC SINH":"03\/04\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"156",
+        "SQĐ":"25.25156",
+        "LỚP":"Nguyễn Văn Thế Vinh",
+        "HỌC SINH":"22\/01\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"157",
+        "SQĐ":"25.25157",
+        "LỚP":"Đinh Thị Như Ý",
+        "HỌC SINH":"04\/01\/2009",
+        "NGÀY SINH":"10A4"
+    },
+    {
+        "STT":"158",
+        "SQĐ":"25.25158",
+        "LỚP":"Đặng Việt Anh",
+        "HỌC SINH":"16\/04\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"159",
+        "SQĐ":"25.25159",
+        "LỚP":"Lê Nguyễn Hoàng Anh",
+        "HỌC SINH":"22\/12\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"160",
+        "SQĐ":"25.25160",
+        "LỚP":"Ngô Nguyễn Phương Anh",
+        "HỌC SINH":"30\/11\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"161",
+        "SQĐ":"25.25161",
+        "LỚP":"Trần Đặng Thái Anh",
+        "HỌC SINH":"03\/12\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"162",
+        "SQĐ":"25.25162",
+        "LỚP":"Mai Thị Như Băng",
+        "HỌC SINH":"30\/12\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"163",
+        "SQĐ":"25.25163",
+        "LỚP":"Trần Quốc Bảo",
+        "HỌC SINH":"07\/10\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"164",
+        "SQĐ":"25.25164",
+        "LỚP":"Trần Quốc Hào",
+        "HỌC SINH":"26\/09\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"165",
+        "SQĐ":"25.25165",
+        "LỚP":"Đoàn Minh Khang",
+        "HỌC SINH":"10\/08\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"166",
+        "SQĐ":"25.25166",
+        "LỚP":"Trần Duy Khang",
+        "HỌC SINH":"22\/01\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"167",
+        "SQĐ":"25.25167",
+        "LỚP":"Huỳnh Kim Luân",
+        "HỌC SINH":"21\/04\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"168",
+        "SQĐ":"25.25168",
+        "LỚP":"Lê Thị Mai",
+        "HỌC SINH":"28\/07\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"169",
+        "SQĐ":"25.25169",
+        "LỚP":"Nguyễn Ngọc Tuyết Minh",
+        "HỌC SINH":"25\/03\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"170",
+        "SQĐ":"25.25170",
+        "LỚP":"Nguyễn Phan Yến Nhi",
+        "HỌC SINH":"14\/05\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"171",
+        "SQĐ":"25.25171",
+        "LỚP":"Nguyễn Hoàng Phúc",
+        "HỌC SINH":"18\/04\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"172",
+        "SQĐ":"25.25172",
+        "LỚP":"Nguyễn Hồng Phượng",
+        "HỌC SINH":"18\/05\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"173",
+        "SQĐ":"25.25173",
+        "LỚP":"Nguyễn Hửu Tâm",
+        "HỌC SINH":"13\/11\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"174",
+        "SQĐ":"25.25174",
+        "LỚP":"Nguyễn Ngọc Nhật Thắng",
+        "HỌC SINH":"13\/12\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"175",
+        "SQĐ":"25.25175",
+        "LỚP":"Nguyễn Tấn Thành",
+        "HỌC SINH":"07\/04\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"176",
+        "SQĐ":"25.25176",
+        "LỚP":"Nguyễn Văn Triển",
+        "HỌC SINH":"23\/04\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"177",
+        "SQĐ":"25.25177",
+        "LỚP":"Trần Võ Cát Tường",
+        "HỌC SINH":"04\/07\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"178",
+        "SQĐ":"25.25178",
+        "LỚP":"Huỳnh Thị Tường Vy",
+        "HỌC SINH":"10\/01\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"179",
+        "SQĐ":"25.25179",
+        "LỚP":"Huỳnh Kim Yến",
+        "HỌC SINH":"13\/08\/2009",
+        "NGÀY SINH":"10A5"
+    },
+    {
+        "STT":"180",
+        "SQĐ":"25.25180",
+        "LỚP":"Nguyễn Trường An",
+        "HỌC SINH":"22\/07\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"181",
+        "SQĐ":"25.25181",
+        "LỚP":"Cao Thị Huỳnh Anh",
+        "HỌC SINH":"26\/05\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"182",
+        "SQĐ":"25.25182",
+        "LỚP":"Nguyễn Ngọc Nam Anh",
+        "HỌC SINH":"29\/09\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"183",
+        "SQĐ":"25.25183",
+        "LỚP":"Trịnh Nguyễn Kim Anh",
+        "HỌC SINH":"29\/07\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"184",
+        "SQĐ":"25.25184",
+        "LỚP":"Ngô Quốc Bảo",
+        "HỌC SINH":"07\/09\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"185",
+        "SQĐ":"25.25185",
+        "LỚP":"Trần Phương Đại",
+        "HỌC SINH":"13\/08\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"186",
+        "SQĐ":"25.25186",
+        "LỚP":"Nguyễn Thị Ái Di",
+        "HỌC SINH":"12\/02\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"187",
+        "SQĐ":"25.25187",
+        "LỚP":"Nguyễn Tường Hải",
+        "HỌC SINH":"29\/11\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"188",
+        "SQĐ":"25.25188",
+        "LỚP":"Nguyễn Trúc Phương Lan",
+        "HỌC SINH":"27\/09\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"189",
+        "SQĐ":"25.25189",
+        "LỚP":"Cao Thị Phượng Mai",
+        "HỌC SINH":"18\/05\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"190",
+        "SQĐ":"25.25190",
+        "LỚP":"Phạm Thị Thu Ngân",
+        "HỌC SINH":"04\/08\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"191",
+        "SQĐ":"25.25191",
+        "LỚP":"Phạm Nguyễn Yến Ngọc",
+        "HỌC SINH":"25\/04\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"192",
+        "SQĐ":"25.25192",
+        "LỚP":"Lê Hữu Nhân",
+        "HỌC SINH":"05\/03\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"193",
+        "SQĐ":"25.25193",
+        "LỚP":"Nguyễn Thanh Nhân",
+        "HỌC SINH":"16\/11\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"194",
+        "SQĐ":"25.25194",
+        "LỚP":"Nguyễn Trần Thanh Nhi",
+        "HỌC SINH":"16\/06\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"195",
+        "SQĐ":"25.25195",
+        "LỚP":"Huỳnh Thị Huỳnh Như",
+        "HỌC SINH":"24\/10\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"196",
+        "SQĐ":"25.25196",
+        "LỚP":"Đặng Mét Si",
+        "HỌC SINH":"28\/10\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"197",
+        "SQĐ":"25.25197",
+        "LỚP":"Trình Ngọc Lan Thanh",
+        "HỌC SINH":"11\/12\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"198",
+        "SQĐ":"25.25198",
+        "LỚP":"Nguyễn Ngọc Thiên",
+        "HỌC SINH":"18\/06\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"199",
+        "SQĐ":"25.25199",
+        "LỚP":"Đặng Phước Tiến",
+        "HỌC SINH":"04\/03\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"200",
+        "SQĐ":"25.25200",
+        "LỚP":"Võ Quốc Toàn",
+        "HỌC SINH":"16\/09\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"201",
+        "SQĐ":"25.25201",
+        "LỚP":"Nguyễn Thị Bảo Trân",
+        "HỌC SINH":"19\/08\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"202",
+        "SQĐ":"25.25202",
+        "LỚP":"Ngô Thị Yến Trang",
+        "HỌC SINH":"25\/02\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"203",
+        "SQĐ":"25.25203",
+        "LỚP":"Nguyễn Thị Thanh Trúc",
+        "HỌC SINH":"24\/11\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"204",
+        "SQĐ":"25.25204",
+        "LỚP":"Trương Lê Minh Tuệ",
+        "HỌC SINH":"06\/01\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"205",
+        "SQĐ":"25.25205",
+        "LỚP":"Trần Thị Tường Vi",
+        "HỌC SINH":"22\/10\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"206",
+        "SQĐ":"25.25206",
+        "LỚP":"Lê Nguyễn Tường Vy",
+        "HỌC SINH":"06\/11\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"207",
+        "SQĐ":"25.25207",
+        "LỚP":"Lê Tường Vy",
+        "HỌC SINH":"05\/06\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"208",
+        "SQĐ":"25.25208",
+        "LỚP":"Nguyễn Tường Vy",
+        "HỌC SINH":"08\/08\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"209",
+        "SQĐ":"25.25209",
+        "LỚP":"Nguyễn Tường Vy",
+        "HỌC SINH":"26\/10\/2009",
+        "NGÀY SINH":"10A6"
+    },
+    {
+        "STT":"210",
+        "SQĐ":"25.25210",
+        "LỚP":"Nguyễn Phước Danh",
+        "HỌC SINH":"15\/05\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"211",
+        "SQĐ":"25.25211",
+        "LỚP":"Trần Thanh Hào",
+        "HỌC SINH":"14\/11\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"212",
+        "SQĐ":"25.25212",
+        "LỚP":"Nguyễn Thị Kim Hiền",
+        "HỌC SINH":"08\/03\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"213",
+        "SQĐ":"25.25213",
+        "LỚP":"Nguyễn Phước Hoài",
+        "HỌC SINH":"10\/04\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"214",
+        "SQĐ":"25.25214",
+        "LỚP":"Võ Ngọc Kim Ngân",
+        "HỌC SINH":"24\/10\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"215",
+        "SQĐ":"25.25215",
+        "LỚP":"Huỳnh Hữu Nghĩa",
+        "HỌC SINH":"11\/11\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"216",
+        "SQĐ":"25.25216",
+        "LỚP":"Trần Hữu Nghĩa",
+        "HỌC SINH":"09\/01\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"217",
+        "SQĐ":"25.25217",
+        "LỚP":"Huỳnh Thị Yến Nhi",
+        "HỌC SINH":"13\/07\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"218",
+        "SQĐ":"25.25218",
+        "LỚP":"Nguyễn Minh Phát",
+        "HỌC SINH":"20\/04\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"219",
+        "SQĐ":"25.25219",
+        "LỚP":"Trần Long Phi",
+        "HỌC SINH":"17\/11\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"220",
+        "SQĐ":"25.25220",
+        "LỚP":"Phạm Ngô Thúy Quỳnh",
+        "HỌC SINH":"29\/06\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"221",
+        "SQĐ":"25.25221",
+        "LỚP":"Nguyễn Phước Sang",
+        "HỌC SINH":"15\/09\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"222",
+        "SQĐ":"25.25222",
+        "LỚP":"Cao Thị Anh Thư",
+        "HỌC SINH":"12\/03\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"223",
+        "SQĐ":"25.25223",
+        "LỚP":"Nguyễn Thị Thanh Thúy",
+        "HỌC SINH":"16\/10\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"224",
+        "SQĐ":"25.25224",
+        "LỚP":"Lê Mai Vinh",
+        "HỌC SINH":"23\/04\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"225",
+        "SQĐ":"25.25225",
+        "LỚP":"Phạm Khải Yến",
+        "HỌC SINH":"05\/01\/2009",
+        "NGÀY SINH":"10A7"
+    },
+    {
+        "STT":"226",
+        "SQĐ":"25.25226",
+        "LỚP":"Nguyễn Thị Phương Anh",
+        "HỌC SINH":"10\/09\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"227",
+        "SQĐ":"25.25227",
+        "LỚP":"Nguyễn Hoàng Ngọc Ánh",
+        "HỌC SINH":"24\/06\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"228",
+        "SQĐ":"25.25228",
+        "LỚP":"Trương Phùng Khánh Băng",
+        "HỌC SINH":"22\/12\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"229",
+        "SQĐ":"25.25229",
+        "LỚP":"Trần Thị Kim Hiền",
+        "HỌC SINH":"20\/07\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"230",
+        "SQĐ":"25.25230",
+        "LỚP":"Nguyễn Thị Ngọc Ngà",
+        "HỌC SINH":"17\/12\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"231",
+        "SQĐ":"25.25231",
+        "LỚP":"Đinh Hữu Nghĩa",
+        "HỌC SINH":"12\/01\/2008",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"232",
+        "SQĐ":"25.25232",
+        "LỚP":"Nguyễn Thị Ánh Nguyệt",
+        "HỌC SINH":"19\/07\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"233",
+        "SQĐ":"25.25233",
+        "LỚP":"Lưu Trọng Nhân",
+        "HỌC SINH":"06\/02\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"234",
+        "SQĐ":"25.25234",
+        "LỚP":"Lê Tuyết Nhung",
+        "HỌC SINH":"04\/08\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"235",
+        "SQĐ":"25.25235",
+        "LỚP":"Cao Quốc Thịnh",
+        "HỌC SINH":"20\/10\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"236",
+        "SQĐ":"25.25236",
+        "LỚP":"Nguyễn Thị Ngọc Thu",
+        "HỌC SINH":"15\/04\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"237",
+        "SQĐ":"25.25237",
+        "LỚP":"Trương Yến Vy",
+        "HỌC SINH":"24\/01\/2009",
+        "NGÀY SINH":"10A9"
+    },
+    {
+        "STT":"238",
+        "SQĐ":"25.25238",
+        "LỚP":"Lưu Vạn Phát Em",
+        "HỌC SINH":"11\/04\/2008",
+        "NGÀY SINH":"11A1"
+    },
+    {
+        "STT":"239",
+        "SQĐ":"25.25239",
+        "LỚP":"Võ Đức Huy",
+        "HỌC SINH":"16\/04\/2008",
+        "NGÀY SINH":"11A1"
+    },
+    {
+        "STT":"240",
+        "SQĐ":"25.25240",
+        "LỚP":"Nguyễn Thị Ngọc Ánh",
+        "HỌC SINH":"13\/10\/2008",
+        "NGÀY SINH":"11A10"
+    },
+    {
+        "STT":"241",
+        "SQĐ":"25.25241",
+        "LỚP":"Nguyễn Ngọc Hiển",
+        "HỌC SINH":"28\/12\/2008",
+        "NGÀY SINH":"11A10"
+    },
+    {
+        "STT":"242",
+        "SQĐ":"25.25242",
+        "LỚP":"Nguyễn Thị Kim Ngân",
+        "HỌC SINH":"10\/05\/2008",
+        "NGÀY SINH":"11A10"
+    },
+    {
+        "STT":"243",
+        "SQĐ":"25.25243",
+        "LỚP":"Trần Đinh Ngọc Bích",
+        "HỌC SINH":"27\/08\/2008",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"244",
+        "SQĐ":"25.25244",
+        "LỚP":"Huỳnh Hoàng Huy",
+        "HỌC SINH":"11\/10\/2007",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"245",
+        "SQĐ":"25.25245",
+        "LỚP":"Nguyễn Gia Huy",
+        "HỌC SINH":"19\/05\/2008",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"246",
+        "SQĐ":"25.25246",
+        "LỚP":"Phạm Văn Phúc",
+        "HỌC SINH":"05\/10\/2007",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"247",
+        "SQĐ":"25.25247",
+        "LỚP":"Lại Ngọc Thảo Vy",
+        "HỌC SINH":"16\/05\/2008",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"248",
+        "SQĐ":"25.25248",
+        "LỚP":"Nguyễn Ngọc Như Ý",
+        "HỌC SINH":"05\/08\/2008",
+        "NGÀY SINH":"11A2"
+    },
+    {
+        "STT":"249",
+        "SQĐ":"25.25249",
+        "LỚP":"Đinh Hồ Nhựt Hiếu",
+        "HỌC SINH":"13\/08\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"250",
+        "SQĐ":"25.25250",
+        "LỚP":"Nguyễn Quốc Minh",
+        "HỌC SINH":"19\/04\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"251",
+        "SQĐ":"25.25251",
+        "LỚP":"Nguyễn Minh Pháp",
+        "HỌC SINH":"04\/08\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"252",
+        "SQĐ":"25.25252",
+        "LỚP":"Nguyễn Thành Phát",
+        "HỌC SINH":"29\/09\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"253",
+        "SQĐ":"25.25253",
+        "LỚP":"Dương Lê Kim Phúc",
+        "HỌC SINH":"27\/08\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"254",
+        "SQĐ":"25.25254",
+        "LỚP":"Hồ Quốc Sử",
+        "HỌC SINH":"20\/07\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"255",
+        "SQĐ":"25.25255",
+        "LỚP":"Lâm Chí Tâm",
+        "HỌC SINH":"13\/07\/2008",
+        "NGÀY SINH":"11A3"
+    },
+    {
+        "STT":"256",
+        "SQĐ":"25.25256",
+        "LỚP":"Võ Thanh Bảo",
+        "HỌC SINH":"16\/06\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"257",
+        "SQĐ":"25.25257",
+        "LỚP":"Nguyễn Tấn Duy",
+        "HỌC SINH":"05\/05\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"258",
+        "SQĐ":"25.25258",
+        "LỚP":"Phùng Như Huỳnh",
+        "HỌC SINH":"12\/08\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"259",
+        "SQĐ":"25.25259",
+        "LỚP":"Trần Hữu Khang",
+        "HỌC SINH":"16\/11\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"260",
+        "SQĐ":"25.25260",
+        "LỚP":"Trần Đăng Khoa",
+        "HỌC SINH":"22\/08\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"261",
+        "SQĐ":"25.25261",
+        "LỚP":"Bùi Thiện Trung Kiên",
+        "HỌC SINH":"01\/12\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"262",
+        "SQĐ":"25.25262",
+        "LỚP":"Nguyễn Trung Kiên",
+        "HỌC SINH":"25\/12\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"263",
+        "SQĐ":"25.25263",
+        "LỚP":"Lê Quốc Kiệt",
+        "HỌC SINH":"23\/05\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"264",
+        "SQĐ":"25.25264",
+        "LỚP":"Nguyễn Cẩm Ly",
+        "HỌC SINH":"14\/08\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"265",
+        "SQĐ":"25.25265",
+        "LỚP":"Trần Huỳnh Phát",
+        "HỌC SINH":"23\/12\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"266",
+        "SQĐ":"25.25266",
+        "LỚP":"Đặng Hoàng Thái",
+        "HỌC SINH":"18\/11\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"267",
+        "SQĐ":"25.25267",
+        "LỚP":"Phan Ánh Thư",
+        "HỌC SINH":"20\/08\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"268",
+        "SQĐ":"25.25268",
+        "LỚP":"Võ Thị Thanh Trúc",
+        "HỌC SINH":"12\/10\/2008",
+        "NGÀY SINH":"11A4"
+    },
+    {
+        "STT":"269",
+        "SQĐ":"25.25269",
+        "LỚP":"Nguyễn Trọng Hữu",
+        "HỌC SINH":"26\/12\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"270",
+        "SQĐ":"25.25270",
+        "LỚP":"Nguyễn Anh Kiệt",
+        "HỌC SINH":"31\/12\/2007",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"271",
+        "SQĐ":"25.25271",
+        "LỚP":"Phạm Thành Gia Lãm",
+        "HỌC SINH":"24\/09\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"272",
+        "SQĐ":"25.25272",
+        "LỚP":"Đoàn Hồng Linh",
+        "HỌC SINH":"27\/10\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"273",
+        "SQĐ":"25.25273",
+        "LỚP":"Đặng Phước Lợi",
+        "HỌC SINH":"03\/11\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"274",
+        "SQĐ":"25.25274",
+        "LỚP":"Nguyễn Văn Luân",
+        "HỌC SINH":"05\/12\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"275",
+        "SQĐ":"25.25275",
+        "LỚP":"Trần Thị Thanh Ngân",
+        "HỌC SINH":"18\/05\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"276",
+        "SQĐ":"25.25276",
+        "LỚP":"Nguyễn Huỳnh Bảo Ngọc",
+        "HỌC SINH":"11\/07\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"277",
+        "SQĐ":"25.25277",
+        "LỚP":"Nguyễn Thành Phú",
+        "HỌC SINH":"25\/07\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"278",
+        "SQĐ":"25.25278",
+        "LỚP":"Kim Vũ Quang",
+        "HỌC SINH":"25\/05\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"279",
+        "SQĐ":"25.25279",
+        "LỚP":"Phạm Trí Thiện",
+        "HỌC SINH":"04\/05\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"280",
+        "SQĐ":"25.25280",
+        "LỚP":"Ngô Thanh Toàn",
+        "HỌC SINH":"14\/08\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"281",
+        "SQĐ":"25.25281",
+        "LỚP":"Nguyễn Thị Cẩm Tú",
+        "HỌC SINH":"28\/08\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"282",
+        "SQĐ":"25.25282",
+        "LỚP":"Lâm Thanh Vân",
+        "HỌC SINH":"14\/01\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"283",
+        "SQĐ":"25.25283",
+        "LỚP":"Nguyễn Thị Kim Vàng",
+        "HỌC SINH":"15\/09\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"284",
+        "SQĐ":"25.25284",
+        "LỚP":"Dương Quốc Việt",
+        "HỌC SINH":"25\/11\/2008",
+        "NGÀY SINH":"11A5"
+    },
+    {
+        "STT":"285",
+        "SQĐ":"25.25285",
+        "LỚP":"Nguyễn Thị Ngọc Bích",
+        "HỌC SINH":"21\/10\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"286",
+        "SQĐ":"25.25286",
+        "LỚP":"Huỳnh Thị Như Hà",
+        "HỌC SINH":"26\/11\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"287",
+        "SQĐ":"25.25287",
+        "LỚP":"Huỳnh Duy Khang",
+        "HỌC SINH":"11\/12\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"288",
+        "SQĐ":"25.25288",
+        "LỚP":"Đặng Ngọc Trân",
+        "HỌC SINH":"06\/05\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"289",
+        "SQĐ":"25.25289",
+        "LỚP":"Huỳnh Triệu Vy",
+        "HỌC SINH":"30\/12\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"290",
+        "SQĐ":"25.25290",
+        "LỚP":"Lương Tiểu Vy",
+        "HỌC SINH":"15\/10\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"291",
+        "SQĐ":"25.25291",
+        "LỚP":"Trương Nguyễn Lan Vy",
+        "HỌC SINH":"14\/11\/2008",
+        "NGÀY SINH":"11A6"
+    },
+    {
+        "STT":"292",
+        "SQĐ":"25.25292",
+        "LỚP":"Đỗ Thị Thanh Hoa",
+        "HỌC SINH":"12\/12\/2008",
+        "NGÀY SINH":"11A7"
+    },
+    {
+        "STT":"293",
+        "SQĐ":"25.25293",
+        "LỚP":"Đỗ Thị Mỹ Linh",
+        "HỌC SINH":"03\/12\/2008",
+        "NGÀY SINH":"11A7"
+    },
+    {
+        "STT":"294",
+        "SQĐ":"25.25294",
+        "LỚP":"Huỳnh Thị Tú My",
+        "HỌC SINH":"17\/07\/2008",
+        "NGÀY SINH":"11A7"
+    },
+    {
+        "STT":"295",
+        "SQĐ":"25.25295",
+        "LỚP":"Đặng Nguyễn Quí",
+        "HỌC SINH":"23\/01\/2008",
+        "NGÀY SINH":"11A7"
+    },
+    {
+        "STT":"296",
+        "SQĐ":"25.25296",
+        "LỚP":"Nguyễn Huỳnh Thúy Vy",
+        "HỌC SINH":"24\/11\/2008",
+        "NGÀY SINH":"11A7"
+    },
+    {
+        "STT":"297",
+        "SQĐ":"25.25297",
+        "LỚP":"Nguyễn Ngọc Hoài Anh",
+        "HỌC SINH":"18\/08\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"298",
+        "SQĐ":"25.25298",
+        "LỚP":"Đoàn Thị Xuân Đài",
+        "HỌC SINH":"02\/05\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"299",
+        "SQĐ":"25.25299",
+        "LỚP":"Nguyễn Chí Đại",
+        "HỌC SINH":"18\/06\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"300",
+        "SQĐ":"25.25300",
+        "LỚP":"Nguyễn Xuân Đằng",
+        "HỌC SINH":"17\/04\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"301",
+        "SQĐ":"25.25301",
+        "LỚP":"Nguyễn Thanh Điền",
+        "HỌC SINH":"30\/04\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"302",
+        "SQĐ":"25.25302",
+        "LỚP":"Lê Thị Ngọc Diệp",
+        "HỌC SINH":"10\/08\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"303",
+        "SQĐ":"25.25303",
+        "LỚP":"Nguyễn Thái Dương",
+        "HỌC SINH":"12\/01\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"304",
+        "SQĐ":"25.25304",
+        "LỚP":"Lê Thị Quỳnh Hoa",
+        "HỌC SINH":"04\/11\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"305",
+        "SQĐ":"25.25305",
+        "LỚP":"Lê Gia Huy",
+        "HỌC SINH":"10\/01\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"306",
+        "SQĐ":"25.25306",
+        "LỚP":"Châu Thị Kim Huyền",
+        "HỌC SINH":"01\/06\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"307",
+        "SQĐ":"25.25307",
+        "LỚP":"Lư Thái Khang",
+        "HỌC SINH":"25\/12\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"308",
+        "SQĐ":"25.25308",
+        "LỚP":"Nguyễn Tuấn Khang",
+        "HỌC SINH":"09\/08\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"309",
+        "SQĐ":"25.25309",
+        "LỚP":"Võ Thị Bá Linh",
+        "HỌC SINH":"12\/09\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"310",
+        "SQĐ":"25.25310",
+        "LỚP":"Nguyễn Trúc Nhân",
+        "HỌC SINH":"19\/04\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"311",
+        "SQĐ":"25.25311",
+        "LỚP":"Nguyễn Ngọc Bảo Như",
+        "HỌC SINH":"08\/01\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"312",
+        "SQĐ":"25.25312",
+        "LỚP":"Võ Thị Yến Oanh",
+        "HỌC SINH":"30\/11\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"313",
+        "SQĐ":"25.25313",
+        "LỚP":"Võ Lê Hoàng Phúc",
+        "HỌC SINH":"19\/12\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"314",
+        "SQĐ":"25.25314",
+        "LỚP":"Trần Thị Lan Phương",
+        "HỌC SINH":"27\/06\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"315",
+        "SQĐ":"25.25315",
+        "LỚP":"Phạm Minh Sang",
+        "HỌC SINH":"31\/01\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"316",
+        "SQĐ":"25.25316",
+        "LỚP":"Nguyễn Quốc Thái",
+        "HỌC SINH":"22\/02\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"317",
+        "SQĐ":"25.25317",
+        "LỚP":"Trần Thị Mỹ Thường",
+        "HỌC SINH":"21\/08\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"318",
+        "SQĐ":"25.25318",
+        "LỚP":"Nguyễn Văn Tiền",
+        "HỌC SINH":"24\/02\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"319",
+        "SQĐ":"25.25319",
+        "LỚP":"Nguyễn Thị Cẩm Tú",
+        "HỌC SINH":"31\/10\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"320",
+        "SQĐ":"25.25320",
+        "LỚP":"ĐOÀN LÊ DUẨN",
+        "HỌC SINH":"15\/09\/2008",
+        "NGÀY SINH":"11A9"
+    },
+    {
+        "STT":"321",
+        "SQĐ":"25.25321",
+        "LỚP":"Huỳnh Bá Lâm",
+        "HỌC SINH":"18\/01\/2007",
+        "NGÀY SINH":"12A1"
+    },
+    {
+        "STT":"322",
+        "SQĐ":"25.25322",
+        "LỚP":"Nguyễn Thị Trúc Linh",
+        "HỌC SINH":"11\/12\/2007",
+        "NGÀY SINH":"12A1"
+    },
+    {
+        "STT":"323",
+        "SQĐ":"25.25323",
+        "LỚP":"Nguyễn Thị Ngọc Hân",
+        "HỌC SINH":"08\/05\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"324",
+        "SQĐ":"25.25324",
+        "LỚP":"Võ Huỳnh Hiện",
+        "HỌC SINH":"12\/08\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"325",
+        "SQĐ":"25.25325",
+        "LỚP":"Nguyễn Thị Thúy Nga",
+        "HỌC SINH":"26\/06\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"326",
+        "SQĐ":"25.25326",
+        "LỚP":"Tạ Thị Kim Ngân",
+        "HỌC SINH":"27\/12\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"327",
+        "SQĐ":"25.25327",
+        "LỚP":"Nguyễn Thị Tuyết Nhi",
+        "HỌC SINH":"04\/02\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"328",
+        "SQĐ":"25.25328",
+        "LỚP":"Phạm Thị Ý Nhi",
+        "HỌC SINH":"21\/11\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"329",
+        "SQĐ":"25.25329",
+        "LỚP":"Châu Phước Thọ",
+        "HỌC SINH":"31\/03\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"330",
+        "SQĐ":"25.25330",
+        "LỚP":"Đặng Quốc Tỷ",
+        "HỌC SINH":"11\/08\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"331",
+        "SQĐ":"25.25331",
+        "LỚP":"VÕ QUỐC LINH",
+        "HỌC SINH":"07\/02\/2007",
+        "NGÀY SINH":"12A3"
+    },
+    {
+        "STT":"332",
+        "SQĐ":"25.25332",
+        "LỚP":"Lê Huỳnh Đăng Khoa",
+        "HỌC SINH":"31\/12\/2007",
+        "NGÀY SINH":"12A4"
+    },
+    {
+        "STT":"333",
+        "SQĐ":"25.25333",
+        "LỚP":"Lê Trúc Linh",
+        "HỌC SINH":"07\/08\/2007",
+        "NGÀY SINH":"12A4"
+    },
+    {
+        "STT":"334",
+        "SQĐ":"25.25334",
+        "LỚP":"Nguyễn Thị Đoan Trang",
+        "HỌC SINH":"06\/07\/2007",
+        "NGÀY SINH":"12A4"
+    },
+    {
+        "STT":"335",
+        "SQĐ":"25.25335",
+        "LỚP":"Võ Nguyễn Vàng Anh",
+        "HỌC SINH":"10\/01\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"336",
+        "SQĐ":"25.25336",
+        "LỚP":"Nguyễn Thị Thu Cúc",
+        "HỌC SINH":"04\/03\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"337",
+        "SQĐ":"25.25337",
+        "LỚP":"Nguyễn Quốc Đạt",
+        "HỌC SINH":"21\/07\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"338",
+        "SQĐ":"25.25338",
+        "LỚP":"Võ Thị Quỳnh Giao",
+        "HỌC SINH":"29\/09\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"339",
+        "SQĐ":"25.25339",
+        "LỚP":"Trần Văn Phước Hiền",
+        "HỌC SINH":"05\/07\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"340",
+        "SQĐ":"25.25340",
+        "LỚP":"Đặng Minh Huân",
+        "HỌC SINH":"04\/02\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"341",
+        "SQĐ":"25.25341",
+        "LỚP":"Đặng Quốc Hưng",
+        "HỌC SINH":"28\/11\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"342",
+        "SQĐ":"25.25342",
+        "LỚP":"Nguyễn Chấn Kỳ",
+        "HỌC SINH":"22\/09\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"343",
+        "SQĐ":"25.25343",
+        "LỚP":"Huỳnh Phương Nhung",
+        "HỌC SINH":"03\/08\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"344",
+        "SQĐ":"25.25344",
+        "LỚP":"Nguyễn Thị Hồng Nhung",
+        "HỌC SINH":"05\/10\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"345",
+        "SQĐ":"25.25345",
+        "LỚP":"Phạm Văn Phúc",
+        "HỌC SINH":"15\/07\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"346",
+        "SQĐ":"25.25346",
+        "LỚP":"Nguyễn Ngọc Minh Thư",
+        "HỌC SINH":"09\/09\/2007",
+        "NGÀY SINH":"12A8"
+    },
+    {
+        "STT":"347",
+        "SQĐ":"25.25347",
+        "LỚP":"Huỳnh Thị Ngọc Trâm",
+        "HỌC SINH":"24\/10\/2007",
+        "NGÀY SINH":"12A8"
+    }
+]
