@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Danh Sách Đoàn Viên 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+
+        h1, h2, h3 {
+            margin: 5px;
+        }
+
+        select {
+            padding: 8px;
+            margin: 10px;
+        }
+
+        table {
+            width: 100%;
+            max-width: 900px;
+            margin: auto;
+            border-collapse: collapse;
+            font-size: 16px;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        @media screen and (max-width: 600px) {
+            table {
+                font-size: 14px;
+            }
+            th, td {
+                padding: 6px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>ĐOÀN TRƯỜNG THPT UNG VĂN KHIÊM</h1>
+    <h2>THÔNG BÁO</h2>
+    <h3>DANH SÁCH ĐOÀN VIÊN KẾT NẠP MỚI NĂM 2025</h3>
+
+    <label for="classFilter">Lọc theo lớp:</label>
+    <select id="classFilter" onchange="filterTable()">
+        <option value="">Tất cả</option>
+    </select>
+
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th>STT</th>
+                <th>Số Quyết Định</th>
+                <th>Lớp</th>
+                <th>Học Sinh</th>
+                <th>Ngày Sinh</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script>
+        let jsonData = [];
+        fetch('danh_sach_doan_vien.json')
+            .then(response => response.json())
+            .then(data => {
+                jsonData = data;
+                populateTable(jsonData);
+                populateClassFilter(jsonData);
+            });
+
+        function populateTable(data) {
+            const tbody = document.getElementById('dataTable').getElementsByTagName('tbody')[0];
+            tbody.innerHTML = '';
+            data.forEach((item, index) => {
+                let row = tbody.insertRow();
+                row.insertCell(0).innerText = index + 1;
+                row.insertCell(1).innerText = item["SỐ QUYẾT ĐỊNH"];
+                row.insertCell(2).innerText = item["LỚP"];
+                row.insertCell(3).innerText = item["HỌC SINH"];
+                row.insertCell(4).innerText = item["NGÀY SINH"];
+            });
+        }
+
+        function populateClassFilter(data) {
+            const classSet = new Set();
+            data.forEach(item => classSet.add(item["LỚP"]));
+            const classFilter = document.getElementById('classFilter');
+            classSet.forEach(cls => {
+                let option = document.createElement('option');
+                option.value = cls;
+                option.innerText = cls;
+                classFilter.appendChild(option);
+            });
+        }
+
+        function filterTable() {
+            const selectedClass = document.getElementById('classFilter').value;
+            const filteredData = selectedClass ? jsonData.filter(item => item["LỚP"] === selectedClass) : jsonData;
+            populateTable(filteredData);
+        }
+    </script>
+</body>
+</html>
